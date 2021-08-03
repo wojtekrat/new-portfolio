@@ -1,24 +1,32 @@
 {
   "files": {
     "main.css": "/new-portfolio/static/css/main.494c8e6e.chunk.css",
-    "main.js": "/new-portfolio/static/js/main.6ebe2164.chunk.js",
-    "main.js.map": "/new-portfolio/static/js/main.6ebe2164.chunk.js.map",
+    "main.js": "/new-portfolio/static/js/main.5b815846.chunk.js",
+    "main.js.map": "/new-portfolio/static/js/main.5b815846.chunk.js.map",
     "runtime-main.js": "/new-portfolio/static/js/runtime-main.b2afda12.js",
     "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.b2afda12.js.map",
-    "static/js/2.ad1ad2d7.chunk.js": "/new-portfolio/static/js/2.ad1ad2d7.chunk.js",
-    "static/js/2.ad1ad2d7.chunk.js.map": "/new-portfolio/static/js/2.ad1ad2d7.chunk.js.map",
+    "static/js/2.8a4c48bb.chunk.js": "/new-portfolio/static/js/2.8a4c48bb.chunk.js",
+    "static/js/2.8a4c48bb.chunk.js.map": "/new-portfolio/static/js/2.8a4c48bb.chunk.js.map",
     "static/js/3.a021a598.chunk.js": "/new-portfolio/static/js/3.a021a598.chunk.js",
     "static/js/3.a021a598.chunk.js.map": "/new-portfolio/static/js/3.a021a598.chunk.js.map",
     "index.html": "/new-portfolio/index.html",
     "static/css/main.494c8e6e.chunk.css.map": "/new-portfolio/static/css/main.494c8e6e.chunk.css.map",
-    "static/js/2.ad1ad2d7.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.ad1ad2d7.chunk.js.LICENSE.txt",
+    "static/js/2.8a4c48bb.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.8a4c48bb.chunk.js.LICENSE.txt",
     "static/media/bg.7260bf0c.jpg": "/new-portfolio/static/media/bg.7260bf0c.jpg",
+    "static/media/bingo.818b2414.jpg": "/new-portfolio/static/media/bingo.818b2414.jpg",
+    "static/media/candy.05266882.jpg": "/new-portfolio/static/media/candy.05266882.jpg",
+    "static/media/giphy.573008de.jpg": "/new-portfolio/static/media/giphy.573008de.jpg",
+    "static/media/moni.29670ca4.jpg": "/new-portfolio/static/media/moni.29670ca4.jpg",
+    "static/media/shop1.a74bb021.jpg": "/new-portfolio/static/media/shop1.a74bb021.jpg",
+    "static/media/shopreact.37da6f97.jpg": "/new-portfolio/static/media/shopreact.37da6f97.jpg",
+    "static/media/space.cfa28f3b.jpg": "/new-portfolio/static/media/space.cfa28f3b.jpg",
+    "static/media/studio.bf7bffcc.jpg": "/new-portfolio/static/media/studio.bf7bffcc.jpg",
     "static/media/wojtek.04f9cdf3.jpg": "/new-portfolio/static/media/wojtek.04f9cdf3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b2afda12.js",
-    "static/js/2.ad1ad2d7.chunk.js",
+    "static/js/2.8a4c48bb.chunk.js",
     "static/css/main.494c8e6e.chunk.css",
-    "static/js/main.6ebe2164.chunk.js"
+    "static/js/main.5b815846.chunk.js"
   ]
 }
