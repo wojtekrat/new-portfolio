@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/new-portfolio/static/css/main.019cf584.chunk.css",
-    "main.js": "/new-portfolio/static/js/main.1185a819.chunk.js",
-    "main.js.map": "/new-portfolio/static/js/main.1185a819.chunk.js.map",
-    "runtime-main.js": "/new-portfolio/static/js/runtime-main.b2afda12.js",
-    "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.b2afda12.js.map",
-    "static/js/2.8a4c48bb.chunk.js": "/new-portfolio/static/js/2.8a4c48bb.chunk.js",
-    "static/js/2.8a4c48bb.chunk.js.map": "/new-portfolio/static/js/2.8a4c48bb.chunk.js.map",
-    "static/js/3.a021a598.chunk.js": "/new-portfolio/static/js/3.a021a598.chunk.js",
-    "static/js/3.a021a598.chunk.js.map": "/new-portfolio/static/js/3.a021a598.chunk.js.map",
+    "main.css": "/new-portfolio/static/css/main.ad2021fd.chunk.css",
+    "main.js": "/new-portfolio/static/js/main.fa8bf415.chunk.js",
+    "main.js.map": "/new-portfolio/static/js/main.fa8bf415.chunk.js.map",
+    "runtime-main.js": "/new-portfolio/static/js/runtime-main.8abcc644.js",
+    "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.8abcc644.js.map",
+    "static/js/2.3147c726.chunk.js": "/new-portfolio/static/js/2.3147c726.chunk.js",
+    "static/js/2.3147c726.chunk.js.map": "/new-portfolio/static/js/2.3147c726.chunk.js.map",
+    "static/js/3.acdcf2f0.chunk.js": "/new-portfolio/static/js/3.acdcf2f0.chunk.js",
+    "static/js/3.acdcf2f0.chunk.js.map": "/new-portfolio/static/js/3.acdcf2f0.chunk.js.map",
     "index.html": "/new-portfolio/index.html",
-    "static/css/main.019cf584.chunk.css.map": "/new-portfolio/static/css/main.019cf584.chunk.css.map",
-    "static/js/2.8a4c48bb.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.8a4c48bb.chunk.js.LICENSE.txt",
+    "static/css/main.ad2021fd.chunk.css.map": "/new-portfolio/static/css/main.ad2021fd.chunk.css.map",
+    "static/js/2.3147c726.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.3147c726.chunk.js.LICENSE.txt",
     "static/media/bg.7260bf0c.jpg": "/new-portfolio/static/media/bg.7260bf0c.jpg",
     "static/media/bingo.818b2414.jpg": "/new-portfolio/static/media/bingo.818b2414.jpg",
     "static/media/candy.05266882.jpg": "/new-portfolio/static/media/candy.05266882.jpg",
@@ -24,9 +24,9 @@
     "static/media/wojtek.04f9cdf3.jpg": "/new-portfolio/static/media/wojtek.04f9cdf3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2afda12.js",
-    "static/js/2.8a4c48bb.chunk.js",
-    "static/css/main.019cf584.chunk.css",
-    "static/js/main.1185a819.chunk.js"
+    "static/js/runtime-main.8abcc644.js",
+    "static/js/2.3147c726.chunk.js",
+    "static/css/main.ad2021fd.chunk.css",
+    "static/js/main.fa8bf415.chunk.js"
   ]
 }
