@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/new-portfolio/static/css/main.db90b226.chunk.css",
-    "main.js": "/new-portfolio/static/js/main.bb27b481.chunk.js",
-    "main.js.map": "/new-portfolio/static/js/main.bb27b481.chunk.js.map",
+    "main.js": "/new-portfolio/static/js/main.d5f60bb1.chunk.js",
+    "main.js.map": "/new-portfolio/static/js/main.d5f60bb1.chunk.js.map",
     "runtime-main.js": "/new-portfolio/static/js/runtime-main.8abcc644.js",
     "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.8abcc644.js.map",
     "static/js/2.3147c726.chunk.js": "/new-portfolio/static/js/2.3147c726.chunk.js",
@@ -16,6 +16,7 @@
     "static/media/bingo.818b2414.jpg": "/new-portfolio/static/media/bingo.818b2414.jpg",
     "static/media/candy.05266882.jpg": "/new-portfolio/static/media/candy.05266882.jpg",
     "static/media/giphy.573008de.jpg": "/new-portfolio/static/media/giphy.573008de.jpg",
+    "static/media/logo.15386ff6.png": "/new-portfolio/static/media/logo.15386ff6.png",
     "static/media/moni.29670ca4.jpg": "/new-portfolio/static/media/moni.29670ca4.jpg",
     "static/media/poland.abc96259.png": "/new-portfolio/static/media/poland.abc96259.png",
     "static/media/space.cfa28f3b.jpg": "/new-portfolio/static/media/space.cfa28f3b.jpg",
@@ -27,6 +28,6 @@
     "static/js/runtime-main.8abcc644.js",
     "static/js/2.3147c726.chunk.js",
     "static/css/main.db90b226.chunk.css",
-    "static/js/main.bb27b481.chunk.js"
+    "static/js/main.d5f60bb1.chunk.js"
   ]
 }
