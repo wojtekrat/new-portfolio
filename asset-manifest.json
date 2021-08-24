@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/new-portfolio/static/css/main.763a962e.chunk.css",
-    "main.js": "/new-portfolio/static/js/main.f1228a34.chunk.js",
-    "main.js.map": "/new-portfolio/static/js/main.f1228a34.chunk.js.map",
+    "main.js": "/new-portfolio/static/js/main.309f3405.chunk.js",
+    "main.js.map": "/new-portfolio/static/js/main.309f3405.chunk.js.map",
     "runtime-main.js": "/new-portfolio/static/js/runtime-main.8abcc644.js",
     "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.8abcc644.js.map",
     "static/js/2.3147c726.chunk.js": "/new-portfolio/static/js/2.3147c726.chunk.js",
@@ -14,8 +14,10 @@
     "static/js/2.3147c726.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.3147c726.chunk.js.LICENSE.txt",
     "static/media/bg.7260bf0c.jpg": "/new-portfolio/static/media/bg.7260bf0c.jpg",
     "static/media/bingo.818b2414.jpg": "/new-portfolio/static/media/bingo.818b2414.jpg",
+    "static/media/button.dd4a19d6.jpg": "/new-portfolio/static/media/button.dd4a19d6.jpg",
     "static/media/candy.05266882.jpg": "/new-portfolio/static/media/candy.05266882.jpg",
     "static/media/giphy.573008de.jpg": "/new-portfolio/static/media/giphy.573008de.jpg",
+    "static/media/hungry.24bf6c95.jpg": "/new-portfolio/static/media/hungry.24bf6c95.jpg",
     "static/media/logo.15386ff6.png": "/new-portfolio/static/media/logo.15386ff6.png",
     "static/media/moni.29670ca4.jpg": "/new-portfolio/static/media/moni.29670ca4.jpg",
     "static/media/poland.abc96259.png": "/new-portfolio/static/media/poland.abc96259.png",
@@ -28,6 +30,6 @@
     "static/js/runtime-main.8abcc644.js",
     "static/js/2.3147c726.chunk.js",
     "static/css/main.763a962e.chunk.css",
-    "static/js/main.f1228a34.chunk.js"
+    "static/js/main.309f3405.chunk.js"
   ]
 }
